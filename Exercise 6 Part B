@@ -1,4 +1,4 @@
-void main (){
+void main (){ 
 	int num1;//1st number
 	int num2;//2nd number
 	int min;
