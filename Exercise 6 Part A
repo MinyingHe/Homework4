@@ -1,0 +1,9 @@
+void main (){
+	int n;// n numbers
+	int sum = 0;
+	int count=n;
+	while(count!=0){
+		sum=sum+count;
+		count=count-1;
+	}
+}
